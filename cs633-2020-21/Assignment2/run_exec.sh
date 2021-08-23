@@ -1,0 +1,1 @@
+mpirun -np $1 -f hostfile1 ./a.out $2 $3 >> data
